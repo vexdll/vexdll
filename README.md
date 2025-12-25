@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Vex 👋
 
-<!--
-**vexdll/vexdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/vexdll">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vexdll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vex's GitHub Stats"/>
+</a>
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A little more about me...
+
+```javascript
+const vex = {
+  pronouns: "he" | "him",
+  code: ["Python", "Bash", "PowerShell", "SQL"],
+  tools: ["Wireshark", "Splunk", "Volatility", "Metasploit", "Nmap", "Burp Suite"],
+  certifications: ["OSCP", "GREM", "GCIA"],
+  challenge: "I love analyzing malware and reverse engineering."
+}
